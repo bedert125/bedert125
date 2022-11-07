@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @bedert125
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on anything
